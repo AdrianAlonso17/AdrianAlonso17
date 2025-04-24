@@ -20,13 +20,11 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Me encanta 
 
 ## 🚀 Proyectos destacados
 
-- **[Nombre del Proyecto 1](https://github.com/AdrianAlonso17/Radiant-AI.git)**: Descripción breve del proyecto y las tecnologías utilizadas.
-- **[Nombre del Proyecto 2](enlace-al-repositorio)**: Descripción breve del proyecto y las tecnologías utilizadas.
-- **[Nombre del Proyecto 3](enlace-al-repositorio)**: Descripción breve del proyecto y las tecnologías utilizadas.
+- **[IA](https://github.com/AdrianAlonso17/Radiant-AI.git)**:
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AdrianAlonso17&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 📫 Conecta conmigo
 
