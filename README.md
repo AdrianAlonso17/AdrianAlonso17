@@ -39,8 +39,8 @@
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdrianAlonso17&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" width="350"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianAlonso17&layout=donut&theme=dark" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdrianAlonso17&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" width="350" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianAlonso17&layout=donut&theme=dark" width="300" height="200"/>
 </p>
 
 ## 📫 Conecta conmigo
