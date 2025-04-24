@@ -24,7 +24,7 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Me encanta 
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AdrianAlonso17&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radiant)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AdrianAlonso17&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
 ## 📫 Conecta conmigo
 
