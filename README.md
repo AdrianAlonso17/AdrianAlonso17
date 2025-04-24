@@ -36,7 +36,7 @@
 ## 📈 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AdrianAlonso17&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianAlonso17&hide_progress=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianAlonso17&layout=donut&theme=dark)
 
 ## 📫 Conecta conmigo
 
