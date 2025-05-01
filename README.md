@@ -34,7 +34,6 @@
 
 ## 🚀 Proyectos destacados
 
-- **[IA](https://github.com/AdrianAlonso17/Radiant-AI.git)**:
 
 ## 📈 Estadísticas de GitHub
 
